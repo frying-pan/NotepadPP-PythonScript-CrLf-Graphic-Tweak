@@ -9,6 +9,11 @@ Tested with Notepad++ 7.8.2 64 bits, with PythonScript plugin 1.5.2,
 on Windows 8.1 64 bits (NOT tested with Notepad++ 32 Bits but should be compatible)
 
 
+Features :
+  * set up the option inside the script : i_start_mode,
+  * or re-run the script to make CR and LF appear as just C, F, or a small vertical bar | graphic
+
+
 # Install :
 
 This script can be run at Notepad++ startup (folders below are those of a local installation) : 

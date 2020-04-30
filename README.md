@@ -4,9 +4,9 @@ Change the graphic of CR and LF for Notepad++ when the script is run from Notepa
 
 via a callback on notepad object (NOTIFICATION.BUFFERACTIVATED) : the graphics can be made smaller, with various sizes
 
-Tested with Notepad++ 7.8.2 64 bits, with PythonScript plugin 1.5.2
+Tested with Notepad++ 7.8.2 64 bits, with PythonScript plugin 1.5.2,
 
-on Windows 8.1 64 bits (NOT tested with Notepad++ 32 Bits but could be compatible)
+on Windows 8.1 64 bits (NOT tested with Notepad++ 32 Bits but should be compatible)
 
 
 # Install :

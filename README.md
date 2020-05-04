@@ -34,3 +34,8 @@ C:\Program Files\Notepad++\plugins\PythonScript\scripts
 # Versions :
 
 Perso_CrLfDisplay_Callback_v1_0.py
+
+Perso_CrLfDisplay_Callback_v1_1.py
+changes :
+* handling both Notepad++ views
+* more flexible configuration

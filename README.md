@@ -39,3 +39,7 @@ Perso_CrLfDisplay_Callback_v1_1.py
 changes :
 * handling both Notepad++ views
 * more flexible configuration
+
+Perso_CrLfDisplay_Callback_v1_2.py
+changes :
+* minor update

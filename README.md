@@ -10,7 +10,7 @@ on Windows 8.1 64 bits (NOT tested with Notepad++ 32 Bits but should be compatib
 
 
 Features :
-  * set up the option inside the script : i_start_mode,
+  * set up the options inside the script : i_start_width_cr, i_start_width_lf
   * or re-run the script to make CR and LF appear as just C, F, or a small vertical bar | graphic
 
 
@@ -18,11 +18,11 @@ Features :
 
 This script can be run at Notepad++ startup (folders below are those of a local installation) : 
 
-* copy the Perso_CrLfDisplay_Callback .py script file in :
+* copy the FP_CrLfDisplay_Callback .py script file in :
 
 C:\Users\[username]\AppData\Roaming\Notepad++\plugins\config\PythonScript\scripts
 
-* add "import [Perso_CrLfDisplay_Callback (py) script file name without extension]"
+* add "import [FP_CrLfDisplay_Callback (py) script file name without extension]"
 
 to the startup.py file located, for me, under the Notepad++ install folder :
 
@@ -33,19 +33,19 @@ C:\Program Files\Notepad++\plugins\PythonScript\scripts
 
 # Versions :
 
-Perso_CrLfDisplay_Callback_v1_0.py
+FP_CrLfDisplay_Callback_v1_0.py
 
-Perso_CrLfDisplay_Callback_v1_1.py
+FP_CrLfDisplay_Callback_v1_1.py
 changes :
 * handling both Notepad++ views
 * more flexible configuration
 
-Perso_CrLfDisplay_Callback_v1_2.py
+FP_CrLfDisplay_Callback_v1_2.py
 changes :
 * minor update
 
 FP_CrLfDisplay_Callback_v1_3.py
 changes :
-* script name changed
+* script name changed from Perso_CrLfDisplay_Callback to FP_CrLfDisplay_Callback for easier identification
 * minor update
 

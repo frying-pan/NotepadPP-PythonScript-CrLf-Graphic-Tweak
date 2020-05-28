@@ -1,4 +1,4 @@
-# NotepadPP-PythonScript-CrLf-Graphic-Tweak
+# CrLf_Display
 
 Change the graphic of CR and LF for Notepad++ when the script is run from Notepad++ (with PythonScript plugin installed)
 
